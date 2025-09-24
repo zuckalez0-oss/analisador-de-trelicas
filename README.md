@@ -9,7 +9,8 @@ Geração do relatório.
 <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/0086d01d-3df0-481c-bdc7-1e56a364f569" />
 
 Planilha gerada com os resultados analisados
-<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/bbd4e8f8-1f64-4e8c-8b5d-c61203867661" />
+<img width="1608" height="440" alt="image" src="https://github.com/user-attachments/assets/f6bba456-117f-4e11-9f04-53816cfdd31f" />
+
 
 Planilha relatórico na aba de Resumo por Perfil (Mostra a quantidade de barras de 6 metros necessárias)
 <img width="939" height="157" alt="image" src="https://github.com/user-attachments/assets/6f4cc6a2-302e-4a78-b491-f5b0fe353782" />
